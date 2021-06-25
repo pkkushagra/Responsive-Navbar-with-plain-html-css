@@ -68,3 +68,13 @@ nav ul li a:hover{
         display: inline;
     }
 }
+.footer{
+    position: absolute;
+    color: white;
+    background:rgb(71, 92, 92) ;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    padding: 5px;
+    /* align-self: baseline; */
+}
